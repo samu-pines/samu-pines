@@ -1,9 +1,8 @@
 ## Oi pove tudu bem? Bem vindes ao meu perfil🐶
 
-
 Meu nome é Samuel 
 
-◾Estou estudando na Alura
+◾Estou estudando na [Alura](https://www.alura.com.br)
 
 ◾EStou me desenvolvendo na linguagem JavaScript
 
@@ -12,4 +11,5 @@ Meu nome é Samuel
 ◾Adoro animais e pretendo me tornar um biologo marinho🌊🦭🌊
 ###
 
-![](https://tenor.com/pt-BR/view/a-labrador-drooling-labrador-dog-viralhog-a-labrador-in-its-deep-sleep-gif-7596677733702270972)
+
+![](https://media.tenor.com/cFHngFd4w4oAAAAi/zzz-sleeping.gif)
